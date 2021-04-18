@@ -1,0 +1,3 @@
+const String api = "http://your_api_url.com";
+const char *ssid =  "your_wifi_SSID";
+const char *pass =  "your_wifi_password";
