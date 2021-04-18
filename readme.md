@@ -68,6 +68,9 @@ A webserver is required to get exchanges prices & it needs to be able to serve c
 
 ![kraken](img/kraken.png)
 
+# Tools
+[Png to Bitmap converter](http://www.rinkydinkelectronics.com/t_imageconverter565.php)   
+[RGB565 color picker](http://www.barth-dev.de/online/rgb565-color-picker/)
 
 # Donate <3
 
